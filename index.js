@@ -13,6 +13,7 @@ var app = new Vue({
 var app6 = new Vue({
     el: '#app-6',
     data: {
-        message: 'こんにちは！'
+      message: 'Hello Vue!'
     }
+
 })
